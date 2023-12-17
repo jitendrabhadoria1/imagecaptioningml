@@ -1,0 +1,11 @@
+https://www.hindawi.com/journals/cin/2020/3062706/
+
+https://www.sciencedirect.com/science/article/abs/pii/S0925231218306659
+
+https://www.proquest.com/openview/c3dc9c85c7a6d324ddfec1c39d1011c4/1?pq-origsite=gscholar&cbl=1976345
+
+https://www.geeksforgeeks.org/image-caption-generator-using-deep-learning-on-flickr8k-dataset/
+
+https://medium.com/free-code-camp/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f
+
+https://www.researchgate.net/post/Any-ideas-on-more-applications-of-image-captioning#:~:text=Image%20captioning%20has%20various%20applications,other%20natural%20language%20processing%20applications.
